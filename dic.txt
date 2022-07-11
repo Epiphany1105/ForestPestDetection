@@ -1,0 +1,15 @@
+C22359050005    Sericinus_montelus_Grey_Adult
+C22345170045    Spilarctia_subcarnea_Adult
+C22345105005    Hyphantria_cunea_Adult
+C22342135005    Micromelalopha_troglodyta_Adult
+C21703280010    plagiodera_versicolora_Adult
+C21301095005    Chalcophora_ japonica_Adult
+C21701445005    Monochamus_alternatus_Hope_Adult
+C21701080005    Apriona_germari_Adult
+C15331005010    Drosicha_corpulenta_Adult
+C22301090015    Latoria_consocia_Walker_Adult
+C15408105005    Erthesina_fullo_Adult
+C22301070005    Cnidocampa_flavescens_Adult
+C22342015005    Clostera_anachoreta_Adult
+C21701065010    Anoplophora_chinensis_Forster_Adult
+C22341165010    Psilogramma_menephron_Adult
